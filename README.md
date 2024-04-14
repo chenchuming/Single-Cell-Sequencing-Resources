@@ -1,1 +1,1 @@
-# SingleCellResources
+# Single Cell Sequencing Resources
