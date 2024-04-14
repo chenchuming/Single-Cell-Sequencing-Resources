@@ -12,3 +12,4 @@
 - [Single-cell RNA-seq data analysis workshop - Harvard Chan Bioinformatics Core (HBC)](https://hbctraining.github.io/scRNA-seq_online/) (2022, January 6)
 ## Tools
 - [srRNA tools](https://www.scrna-tools.org/)
+- [SEURAT - R toolkit for single cell genomcs](https://satijalab.org/seurat/)
