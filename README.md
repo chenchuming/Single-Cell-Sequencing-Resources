@@ -8,5 +8,7 @@
 - [Single-cell RNA-seq analysis using Python - EMBL-EBI](https://www.ebi.ac.uk/training/events/single-cell-rna-seq-analysis-2023/)
 - [Single-cell RNA-seq analysis using R - EMNBL-EBI](https://www.ebi.ac.uk/training/events/single-cell-rna-seq-analysis-using-r-virtual/)
 - [Single Cell workshop - NCGR/INBRE](http://gateway.training.ncgr.org/single-cell-workshop/)
+- [Single Cell Transcriptomics - SIB](https://sib-swiss.github.io/single-cell-training-archived/2023.3/)
+- [Single-cell RNA-seq data analysis workshop - Harvard Chan Bioinformatics Core (HBC)](https://hbctraining.github.io/scRNA-seq_online/)
 ## Tools
 
