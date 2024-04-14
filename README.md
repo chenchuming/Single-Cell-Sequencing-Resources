@@ -1,6 +1,6 @@
 # Single Cell Sequencing Resources
 
-# Books
+## Books
 
-# Training Workshops
+## Training Workshops
 
