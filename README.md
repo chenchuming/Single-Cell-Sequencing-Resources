@@ -1,7 +1,7 @@
 # Single Cell Sequencing Resources
 
 ## Books
-- [Single-cell best practices](https://www.sc-best-practices.org/preamble.html)
+- [Single-cell best practices](https://www.sc-best-practices.org/preamble.html) (2023)
 - [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/)
 ## Training Workshops
 - [Analysis of single cell RNA-seq data - Sanger Institute](https://www.singlecellcourse.org/)
